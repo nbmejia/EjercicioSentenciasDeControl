@@ -21,7 +21,7 @@ public class Aplicación {
         Pais pais2= new Pais("p002","Brasil");
         Pais pais3= new Pais("p002","Bolivia");
         Pais pais4= new Pais("p003","Chile");
-        
+         Pais pais5= new Pais("p005","Santiago");
         //System.out.println(pais1.getCodigoPais()+" - "+pais1.getNombrePais());
         System.out.println(pais2.toString());
     }
